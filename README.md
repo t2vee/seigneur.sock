@@ -1,0 +1,2 @@
+# seigneur.sock
+seigneur protocal
